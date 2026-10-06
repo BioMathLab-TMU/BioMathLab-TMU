@@ -1,5 +1,7 @@
 # Computational BioMath Lab | TMU
 
+### Mathematical Modeling • Computational Biology • Scientific Computing
+
 A collaborative research space for mathematical modeling, computational biology, simulation, and reproducible scientific software.
 
 ## About
@@ -28,16 +30,18 @@ Our projects span theory, simulation, algorithmic development, and research-orie
 - Shared lab tools and templates
 
 ## Team
-
-This space is maintained by faculty members, students, and collaborators affiliated with the lab.
-
 **Lead:** Dr. Yousef Jamali  
-**Contributors:** Graduate students, research collaborators, and supervised project teams
+**Members:** Graduate students, undergraduate researchers, and project collaborators
 
 ## Contributing
 
 Lab members are encouraged to keep repositories well documented, use clear commit messages, and maintain reproducible workflows whenever possible.
 
-## Contact
 
-For collaborations or academic inquiries, please contact the lab through the corresponding faculty member or the official lab email.
+## Repository Types
+
+- **Research Projects** — modeling, simulation, and analysis code
+- **Publications** — manuscript-related repositories and supporting materials
+- **Student Projects** — supervised student work and academic projects
+- **Teaching Resources** — lab learning materials, tutorials, and workshops
+- **Shared Tools** — reusable scripts, templates, and utilities
